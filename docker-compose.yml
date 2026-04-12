@@ -4,8 +4,8 @@ services:
     container_name: windows
     environment:
       VERSION: "10"
-      USERNAME: "bill"
-      PASSWORD: "gates"
+      USERNAME: "cont"
+      PASSWORD: "vanajackshi"
       RAM_SIZE: "4G"
       CPU_CORES: "2"
     devices:
